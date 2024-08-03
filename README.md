@@ -9,6 +9,7 @@ One would expect this importance to be related to an airport's total number of i
 But if there are multiple routes between two airports, then even if one of the routes includes a high-degree airport in its path, a traveler that can work around a closure by going on an alternate route. So having a high-degree is not the only factor contributing to how important an airport is. Here, I will try to use a PageRank-like scheme to rank airports and compare that to looking at degree.
 
 This was adapted from: 
-
-https://www.mongodb.com/blog/post/pagerank-on-flights-dataset. The dataset is available here: https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FIM
+https://www.mongodb.com/blog/post/pagerank-on-flights-dataset. 
+The dataset is available here: 
+https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FIM
 
