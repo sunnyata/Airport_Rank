@@ -1,4 +1,4 @@
-Markov Chain Analysis of the US Airport Network
+#Markov Chain Analysis of the US Airport Network
 
 One way to view the airline transportation infrastructure is in the form of a directed network or graph, in which vertices are airports and edges are the direct-flight segments that connect them. For instance, if there is a direct flight from Atlanta's Hartsfield-Jackson International Airport ("ATL") to Los Angeles International Airport ("LAX"), then the airport network would have a directed edge from ATL to LAX.
 
